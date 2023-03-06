@@ -16,19 +16,20 @@ def transform(soup):
         company=item.find('h3',class_='h6').text.strip()
         location=item.find('span',itemprop='addressLocality').text.strip()
         parent_span = item.find('span', {'itemprop':'skills'})
-        child_span = parent_span.find('span', {'class': 'badge badge-pill badge-light rounded text-muted'})
-        child_text = child_span.get_text()
-        print(child_text)
+        skills = []
+        if parent_span:
+            children = parent_span.find_all('span', {'class': 'badge badge-pill badge-light rounded text-muted'})
+            for child in children:
+                skills.append(child.get_text())
         
         job={
             'Title':title,
             'Company':company,
             'Location':location,
-            'KeySkills':child_text
+            'KeySkills': skills
 
         }
         joblist.append(job)
-    return
 
 joblist=[]
 
@@ -37,5 +38,6 @@ for i in range(0,10,6):
     c=extract(1)
     transform(c)
 
+print(joblist)
 df=pd.DataFrame(joblist)
 df.to_csv('Jobs.csv')
