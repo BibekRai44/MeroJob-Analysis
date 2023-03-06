@@ -1,7 +1,65 @@
-,Title,Company,Location
-0,Backend Developer,Codeware Lab,"Dharmasthal Marg, Kathmandu 44600, Nepal"
-1,Asp. Net Developer,Exotrac,Old Baneshwor
-2,Linux Ninja Wanted ( Excellent …,Tech Central,"Kathmandu, Nepal"
-3,Senior Laravel Web Developer,SabKura.com,"New Baneshwor, Kathmandu, Nepal"
-4,Senior Software Engineer (Pytho…,Logpoint Nepal,"Jawalakhel ,Lalitpur"
-5,Unity VR Developer (Education T…,HiUp Solutions,"Naxal, Kathmandu"
+,Title,Company,Location,KeySkills
+0,Backend Developer,Codeware Lab,"Dharmasthal Marg, Kathmandu 44600, Nepal","<span itemprop=""skills"">
+<span class=""badge badge-pill badge-light rounded text-muted"">Communication</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Teamwork</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Java</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Analytical Skills</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Qa</span>
+</span>"
+1,Asp. Net Developer,Exotrac,Old Baneshwor,"<span itemprop=""skills"">
+<span class=""badge badge-pill badge-light rounded text-muted"">Html</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Css</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Javascript</span>
+</span>"
+2,Linux Ninja Wanted ( Excellent …,Tech Central,"Kathmandu, Nepal","<span itemprop=""skills"">
+<span class=""badge badge-pill badge-light rounded text-muted"">Communication</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Problem Solving</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Linux</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Troubleshooting</span>
+</span>"
+3,Senior Laravel Web Developer,SabKura.com,"New Baneshwor, Kathmandu, Nepal","<span itemprop=""skills"">
+<span class=""badge badge-pill badge-light rounded text-muted"">Php</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Html</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Css</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Javascript</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Vue Js</span>
+</span>"
+4,Senior Software Engineer (Pytho…,Logpoint Nepal,"Jawalakhel ,Lalitpur","<span itemprop=""skills"">
+<span class=""badge badge-pill badge-light rounded text-muted"">Teamwork</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Problem Solving</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Analytical Skills</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Python Programming Language</span>
+</span>"
+5,Unity VR Developer (Education T…,HiUp Solutions,"Naxal, Kathmandu",
+6,Backend Developer,Codeware Lab,"Dharmasthal Marg, Kathmandu 44600, Nepal","<span itemprop=""skills"">
+<span class=""badge badge-pill badge-light rounded text-muted"">Communication</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Teamwork</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Java</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Analytical Skills</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Qa</span>
+</span>"
+7,Asp. Net Developer,Exotrac,Old Baneshwor,"<span itemprop=""skills"">
+<span class=""badge badge-pill badge-light rounded text-muted"">Html</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Css</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Javascript</span>
+</span>"
+8,Linux Ninja Wanted ( Excellent …,Tech Central,"Kathmandu, Nepal","<span itemprop=""skills"">
+<span class=""badge badge-pill badge-light rounded text-muted"">Communication</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Problem Solving</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Linux</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Troubleshooting</span>
+</span>"
+9,Senior Laravel Web Developer,SabKura.com,"New Baneshwor, Kathmandu, Nepal","<span itemprop=""skills"">
+<span class=""badge badge-pill badge-light rounded text-muted"">Php</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Html</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Css</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Javascript</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Vue Js</span>
+</span>"
+10,Senior Software Engineer (Pytho…,Logpoint Nepal,"Jawalakhel ,Lalitpur","<span itemprop=""skills"">
+<span class=""badge badge-pill badge-light rounded text-muted"">Teamwork</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Problem Solving</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Analytical Skills</span>
+<span class=""badge badge-pill badge-light rounded text-muted"">Python Programming Language</span>
+</span>"
+11,Unity VR Developer (Education T…,HiUp Solutions,"Naxal, Kathmandu",
