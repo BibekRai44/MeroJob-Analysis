@@ -15,3 +15,7 @@ with open('hrefs.txt', 'w') as file:
             children = parent_link.find('a')
             href_value = "https://merojob.com"+children.get('href')
             file.write(href_value + '\n')
+
+
+
+
