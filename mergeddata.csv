@@ -1,0 +1,75 @@
+Unnamed: 0,Title,Company,Location,KeySkills,job_category,job_level,no_of_vacancy,employment_type,offered_salary,education_level,experience_required
+0,Backend Developer,Codeware Lab,"Dharmasthal Marg, Kathmandu 44600, Nepal","['Communication', 'Teamwork', 'Java', 'Analytical Skills', 'Qa']","IT & Telecommunication
+ > Programmer/ Software Engineer",Mid Level,[ 25 ],Full Time,"NRs. 200,000.00 - 500,000.00 Monthly",Bachelor,More than or equals to 3 years
+1,Asp. Net Developer,Exotrac,Old Baneshwor,"['Html', 'Css', 'Javascript']","IT & Telecommunication
+ > Database Engineer/Database Programmer, Programmer/ Software Engineer, Web Developer/Web Designer",Senior Level,[ 10 ],Full Time,"$. 1,000.00 - 1,500.00 Monthly",Bachelor,More than or equals to 3 years
+2,Linux Ninja Wanted ( Excellent …,Tech Central,"Kathmandu, Nepal","['Communication', 'Problem Solving', 'Linux', 'Troubleshooting']",IT & Telecommunication,Mid Level,[ 10 ],Full Time,Negotiable,Bachelor,More than or equals to 5 years
+3,Senior Laravel Web Developer,SabKura.com,"New Baneshwor, Kathmandu, Nepal","['Php', 'Html', 'Css', 'Javascript', 'Vue Js']","IT & Telecommunication
+ > Content Developer, Database Engineer/Database Programmer, Programmer/ Software Engineer, Technical Lead (Software)",Mid Level,[ 5 ],Full Time,"NRs. 80,000.00 - 160,000.00 Monthly",Bachelor,More than or equals to 4 years
+4,Senior Software Engineer (Pytho…,Logpoint Nepal,"Jawalakhel ,Lalitpur","['Teamwork', 'Problem Solving', 'Analytical Skills', 'Python Programming Language']",IT & Telecommunication,Senior Level,[ 5 ],Full Time,Negotiable,Bachelor,More than or equals to 5 years
+5,SEO Expert,Discovery World Trekking,Kathmandu,"['Javascript', 'React', 'Blogging', 'Search Engine Optimization (Seo)', 'Link Building', 'Google Console', 'Keyboard Ranking']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,"NRs. 20,000.00 - 35,000.00 Monthly",Bachelor,More than or equals to 2 years
+6,Senior Backend Developer,Hamro Academy,New Baneshwor,"['Html', 'Css', 'Javascript', 'Mongodb', 'Node.Js']","IT & Telecommunication
+ > Programmer/ Software Engineer, Web Developer/Web Designer",Senior Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 3 years
+7,Senior Laravel Developer,Resimator (Oy),Mahakavi Marg 29 Dillibazar,"['Php', 'Javascript', 'Mysql', 'Ajax', 'Laravel Framework']","IT & Telecommunication
+ > Programmer/ Software Engineer",Senior Level,[ 2 ],Full Time,Negotiable,Bachelor,More than or equals to 3 years
+8,Jr. IT Associate,Daraz,"Kathmandu, Nepal",[],IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 1 year
+9,Customer Care Trainee,UBA Solutions,"Imadol, Lalitpur, Nepal","['Problem Solving', 'Css', 'Html5', 'Adobe Photoshop', 'Microsoft Office Suite']",IT & Telecommunication,Entry Level,[ 5 ],Traineeship,Negotiable,Bachelor,Less than 1 year
+10,Lead Site Reliability Engineer …,UBA Solutions,"Imadol, Lalitpur, Nepal","['Team Management', 'Linux', 'Aws', 'Windows', 'Monitoring Tools', 'Scripting']",IT & Telecommunication,Senior Level,[ 2 ],Full Time,Negotiable,Bachelor,More than or equals to 5 years
+11,Site Reliability Engineer I (SR…,UBA Solutions,"Imadol, Lalitpur, Nepal","['Linux', 'Aws', 'Windows', 'Monitoring Tools']",IT & Telecommunication,Entry Level,[ 6 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+12,Software Development Engineer i…,UBA Solutions,"Imadol, Lalitpur, Nepal","['Javascript', 'Jmeter', 'Selenium', 'Automation Testing', 'Cypress']",IT & Telecommunication,Mid Level,[ 4 ],Full Time,Negotiable,Bachelor,More than or equals to 3 years
+13,Security Engineer - SecOps,Logpoint Nepal,"Jawalakhel ,Lalitpur","['Teamwork', 'Java', 'Python', 'Linux', 'Analytical Skills']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+14,Senior DevOps Engineer,Logpoint Nepal,"Jawalakhel ,Lalitpur","['Python', 'Linux', 'Analytical Skills', 'Problem-Solving Skills', 'Attention to Detail']",IT & Telecommunication,Senior Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 4 years
+15,Computer Repair Technician/Inst…,Tech Central,"Kathmandu, Nepal","['Communication', 'Problem Solving', 'Time Management', 'Critical Thinking', 'Organizational']","IT & Telecommunication
+ > H/W Installation/ Maintenance",Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 1 year
+16,IT Officer,Hulas Wire Industries Limited,"KHANAR,BIRATNAGAR",[],IT & Telecommunication,Senior Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 5 years
+17,Senior WordPress Developer (Tea…,Outpace,Remote,"['Php', 'Html', 'Css', 'Javascript', 'Wordpress']","IT & Telecommunication
+ > Programmer/ Software Engineer",Senior Level,[ 1 ],Full Time,"NRs. 100,000.00 - 170,000.00 Monthly",Bachelor,More than or equals to 5 years
+18,Technical Writer ( Customer Suc…,Logpoint Nepal,"Jawalakhel ,Lalitpur","['Communication', 'Linux', 'Analytical Skills', 'Networking Skills', 'Technical Writing']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 1 year
+19,Senior Solutions Engineer,Logpoint Nepal,"Jawalakhel ,Lalitpur","['Communication', 'Problem Solving', 'Time Management', 'Analytical Skills', 'Interpersonal Skills']",IT & Telecommunication,Senior Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 4 years
+20,Customer Success Engineer,Logpoint Nepal,"Jawalakhel ,Lalitpur","['Communication', 'Problem Solving', 'Java', 'Python', 'Analytical Skills']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 3 years
+21,Front End /WordPress Developer,Worldlink Parijat,"Kathmandu, Nepal","['Communication', 'Php', 'Html', 'Css', 'Javascript']",IT & Telecommunication,Mid Level,[ 3 ],Full Time,Negotiable,Bachelor,More than or equals to 1 year
+22,IT System Officer,Aligned Community Care,Kathmandu,"['Html', 'Css', 'Website Development']","IT & Telecommunication
+ > IT System Management",Mid Level,[ 1 ],Full Time,"NRs. 40,000.00 - 80,000.00 Monthly",Bachelor,More than or equals to 2 years
+23,Business Intelligence Analyst,CG Communications ltd,"Trade Tower, Thapathali Kathmandu","['Communication', 'Problem Solving', 'Data Analysis', 'Analytical Skills', 'Sql']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+24,Senior Business Analyst,INFICARE,"Kathmandu, Nepal","['Communication', 'Problem Solving', 'Multitasking', 'Time Management', 'Analytical', 'Organizational']",IT & Telecommunication,Senior Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 5 years
+25,Quality Analyst,INFICARE,"Kathmandu, Nepal","['Communication', 'Problem Solving', 'Time Management', 'Analytical', 'Project Management', 'Organizational']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 1 year
+26,Support Analyst-Technical,Nepal Clearing House,"Kathmandu, Nepal",[],IT & Telecommunication,Entry Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 1 year
+27,Product Officer,CG Communications ltd,"Trade Tower, Thapathali Kathmandu","['Communication', 'Problem Solving', 'Analytical Skills']",IT & Telecommunication,Mid Level,[ 2 ],Full Time,Negotiable,Master,More than or equals to 1 year
+28,System Analyst - Payment Systems,Nepal Clearing House,"Kathmandu, Nepal",[],IT & Telecommunication,Entry Level,[ 4 ],Full Time,Negotiable,Bachelor,More than or equals to 1 year
+29,Technical Analyst - Network & C…,Nepal Clearing House,"Kathmandu, Nepal",[],IT & Telecommunication,Entry Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+30,iOS Developer,Nepal Clearing House,"Kathmandu, Nepal",[],IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 3 years
+31,Jr. Android Developer,Nepal Clearing House,"Kathmandu, Nepal",[],IT & Telecommunication,Entry Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 1 year
+32,QA Engineer,Nepal Clearing House,"Kathmandu, Nepal",[],IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 3 years
+33,Business Analyst,Nepal Clearing House,"Kathmandu, Nepal",[],IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 3 years
+34,Fellowship Interns,Nepal Clearing House,"Kathmandu, Nepal",[],IT & Telecommunication,Entry Level,[ 9 ],Full Time,Negotiable,Bachelor,Not Required
+35,STB QA Engineer,Dish Media Network,Kathmandu,"['Communication', 'Teamwork', 'Ms-Office']",IT & Telecommunication,Entry Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 1 year
+36,Senior React Front End Developer,Nebula Technology,Remote,[],IT & Telecommunication,Senior Level,[ 3 ],Part Time,Negotiable,Bachelor,More than or equals to 2 years
+37,Quality Assurance Officer,Khalti Digital Wallet,"Bakhundole, Lalitpur","['Communication', 'Teamwork', 'Problem Solving', 'Analytical', 'Project Management']",IT & Telecommunication,Mid Level,[ 2 ],Full Time,Negotiable,Bachelor,More than or equals to 3 years
+38,Paid internship/Core banking So…,Planet Earth Solutions,"Satdobato,Lalitpur","['Management', 'Communication', 'Accounting', 'Interpersonal Skills']",IT & Telecommunication,Entry Level,[ 15 ],Full Time,"NRs. 10,000.00 Monthly",Intermediate,Not Required
+39,Software Developer .NET,Perfect Active Solutions,"Old Baneshwor,Kathmandu","['Javascript', 'Jquery', 'Sql Server', 'Programming Skills']","IT & Telecommunication
+ > Programmer/ Software Engineer",Mid Level,[ 4 ],Full Time,"NRs. 30,000.00 - 80,000.00 Monthly",Bachelor,More than or equals to 1 year
+40,IOS Developer,EBPearls,"Kandevtasthan, Kupondole, Lalitpur","['Coredata', 'Cocoa Touch', 'Orm And Rdbms']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+41,Project Manager,EBPearls,Kathmandu,[],IT & Telecommunication,Mid Level,[ 2 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+42,QA Software Engineers,Dolphin Dive Technology,"Sanepa, Lalitpur",[],"IT & Telecommunication
+ > Programmer/ Software Engineer, Test Engineer",Mid Level,[ 3 ],Full Time,$. 300.00 - 500.00 Monthly,Bachelor,More than or equals to 1 year
+43,DevOps Engineer,ThinkMove Solutions,"Kathmandu, Nepal","['Management', 'Communication', 'Multitasking', 'Javascript', 'Python', 'Problem Solving Skill', 'Node.Js']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+44,IOS Developer,ThinkMove Solutions,"Kathmandu, Nepal","['Management', 'Communication', 'Multitasking', 'Problem Solving Skill', 'Firebase', 'Restful Api']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,"NRs. 80,000.00 - 100,000.00 Monthly",Bachelor,More than or equals to 2 years
+45,Asst. IT System Administrator,K&A Engineering Consulting P.C,"Sanepa, Lalitpur","['Communication', 'Teamwork', 'Interpersonal Skills', 'Microsoft Active Directory (Ad)']","IT & Telecommunication
+ > IT System Management",Entry Level,[ 1 ],Full Time,Negotiable,Bachelor,Less than or equals to 1 year
+46,Operation Support Coordinator,K&A Engineering Consulting P.C,"Sanepa, Lalitpur","['Communication', 'Teamwork', 'Interpersonal Skills', 'Organizational']",IT & Telecommunication,Entry Level,[ 1 ],Full Time,Negotiable,Bachelor,Less than 1 year
+47,Data Analyst,Dish Media Network,"Chyasikot, Lalitpur",[],IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+48,Data Engineer,Dish Media Network,"Chyasikot, Lalitpur",[],IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 3 years
+49,DBA Engineer,Dish Media Network,"Chyasikot, Lalitpur",[],IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+50,IT Security Engineer,Dish Media Network,"Chyasikot, Lalitpur",[],IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 4 years
+51,SEO Content Writer,Aqore Software,"New Baneshwor, Kathmandu","['Communication', 'Content Writing', 'Creativity Skills', 'Search Engine Optimization (Seo)']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 1 year
+52,Flutter Developer,Aqore Software,"New Baneshwor, Kathmandu","['Mobile Application Development', 'Flutter']",IT & Telecommunication,Mid Level,[ 3 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+53,Database Administrator,Aqore Software,"New Baneshwor, Kathmandu","['Communication', 'Database Administration', 'Ms Sql']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+54,Full Stack Developer,Aqore Software,"New Baneshwor, Kathmandu","['Asp.Net', 'Angular', 'Ms Sql']",IT & Telecommunication,Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+55,Web Developer (Laravel),View9,"Sankhamul, Kathmandu","['Javascript', 'Angularjs', 'Node.Js', 'Linux/Unix']","IT & Telecommunication
+ > Web Developer/Web Designer",Mid Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 2 years
+56,Associate System and Network En…,Aqore Software,"New Baneshwor, Kathmandu","['Communication', 'Networking Skills']",IT & Telecommunication,Entry Level,[ 1 ],Full Time,Negotiable,Bachelor,Less than or equals to 1 year
+57,Lead Cloud Infrastructure Engin…,Aqore Software,"New Baneshwor, Kathmandu","['Communication', 'Critical Thinking', 'Network Security', 'Cloud Security', 'Cloud Application']",IT & Telecommunication,Senior Level,[ 1 ],Full Time,Negotiable,Bachelor,More than or equals to 5 years
+58,IT Support,Softech Infosys,Kathmandu,"['Communication', 'Problem Solving', 'Customer Service', 'Interpersonal Skills']","IT & Telecommunication
+ > Customer Support, Desktop Support",Mid Level,[ 5 ],Full Time,"NRs. 16,000.00 - 21,000.00 Monthly",Bachelor,More than or equals to 1 year
+59,System Administrator,Karnali Network Services Pvt. Ltd.,Work From Home,"['Communication', 'Network', 'System Administration', 'Vpn', 'M365']","IT & Telecommunication
+ > IT System Management, Network Engineer/ Network Administrator, System Engineer (Computer Network & System)",Mid Level,[ 1 ],Full Time,"NRs. 25,000.00 Monthly",Bachelor,More than or equals to 2 years
